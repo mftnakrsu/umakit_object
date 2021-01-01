@@ -10,3 +10,10 @@ https://medium.com/data-breach/introduction-to-feature-detection-and-matching-65
 https://docs.opencv.org/master/dc/dc3/tutorial_py_matcher.html
 
 https://docs.opencv.org/3.4/d1/d89/tutorial_py_orb.html
+
+Cascade Trainer GUI:
+
+https://amin-ahmadi.com/cascade-trainer-gui/
+
+
+
